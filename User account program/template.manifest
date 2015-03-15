@@ -1,7 +1,7 @@
 <!--
 	In order to get this file functional you must change the .manifest file name with the same name 
-	of our JAR file to wrap it and activate the UAC control using the launch4j program.
-	In our case we have named it permission.manifest
+	of your JAR file to wrap it and activate the UAC control using the launch4j program.
+	In your case we have named it permission.manifest
 -->
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
